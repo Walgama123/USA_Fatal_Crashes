@@ -1,0 +1,14 @@
+﻿{"name":"CustomTheme",
+"visualStyles":
+	{"*":{
+	     "*":{"title":[{"fontFamily":"Arial","fontSize":12,"color":{"solid":{"color":"#333333"}}}]
+	       ,"labels":[{"fontFamily":"Arial","fontSize":10,"color":{"solid":{"color":"#333333"}}}]
+		     }},
+			 "chart":{
+			    "*":{"background":[{"color":{"solid":{"color":"#f5f5f5"}}}],
+				     "border":[{"color":{"solid":{"color":"#a1343c"}},"radiusTopLeft":18,"radiusTopRight":18,"radiusBottomLeft":18,"radiusBottomRight":18,"weight":1}],
+					 "shadow":[{"color":{"solid":{"color":"#a1343c"}},"preset":"shadowBottomRight"}]
+					 }
+				}
+			}
+}

@@ -1,0 +1,35 @@
+{
+    "name": "CustomTheme",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "title": [{
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "color": "#333333"
+                }],
+                "labels": [{
+                    "fontFamily": "Arial",
+                    "fontSize": 10,
+                    "color": "#333333"
+                }]
+            }
+        }
+    },
+    "textClasses": {
+        "callout": {
+            "fontSize": 10,
+            "color": "#333333"
+        },
+        "title": {
+            "fontFamily": "Arial",
+            "fontSize": 12,
+            "color": "#333333"
+        },
+        "label": {
+            "fontFamily": "Arial",
+            "fontSize": 10,
+            "color": "#333333"
+        }
+    }
+}

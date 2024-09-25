@@ -1,0 +1,25 @@
+{
+    "name": "CustomTheme",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "title": [{
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "color": "#333333"
+                }],
+                "labels": [{
+                    "fontFamily": "Arial",
+                    "fontSize": 10,
+                    "color": "#333333"
+                }],
+				"Effects": [{
+                    "Background": {"Color":"Black,20% lighter","Transparency":"0%"},
+                    "Visual border": {"Color":"#a1343c","Rounded corners":"18 px","Width":"1 px"},
+                    "Shadow": {"Color":"#a1343c","Offset":"Outside","Position":"Bottom right"},
+                }]
+            }
+        }
+    },
+  
+}
