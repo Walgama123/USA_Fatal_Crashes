@@ -1,6 +1,6 @@
 <h1 align="center"> USA Fatal Crashes Report (2015-2022) </h1>
 <div align="center">
-	<img src="/images/conversion.png">
+	<img src="/images/icon.png">
 </div>
 
 ## Topic
